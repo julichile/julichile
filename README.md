@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julichile
 - 👀 I’m interested in learning to programme
-- 🌱 I’m currently learning Python, web development for beginners
+- 🌱 I’m currently learning python & web development for beginners
 - 💞️ I’m looking to collaborate on learning-process for beginners
 - 📫 How to reach me ...
 
